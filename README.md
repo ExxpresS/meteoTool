@@ -1,6 +1,6 @@
 # meteoTool
 Meteo website Almanarre forcast windsurf and kitesurf
-web site : [KitePrev](meteo.pierrenolot.ovh)
+web site : [KitePrev](https://meteo.pierrenolot.ovh)
  
 
 # TOOD LIST
