@@ -1,6 +1,7 @@
 # meteoTool
 Meteo website Almanarre forcast windsurf and kitesurf
-web site : meteo.pierrenolot.ovh
+web site : [KitePrev](meteo.pierrenolot.ovh)
+ 
 
 # TOOD LIST
 - Rework descktop version
@@ -9,3 +10,9 @@ web site : meteo.pierrenolot.ovh
 - Analitics
 - Seo
 - change domain name
+
+# Contact me 
+<details>
+  <summary>Mail me</summary>
+  pnolot@orange.fr
+</details>
