@@ -1,5 +1,8 @@
 body {
     background:white;
+    max-width: 1200px;
+    
+    margin: auto !important;
 }
 
 .embed-responsive-1by1 {

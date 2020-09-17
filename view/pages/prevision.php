@@ -34,7 +34,7 @@ include '../includes/header.php';
             <script id="wg_fwdg_14_14_1585255748195">
                 (function(window, document) {
                     var loader = function() {
-                        var arg = ["s=14", "m=14", "uid=wg_fwdg_14_14_1585255748195", "wj=knots", "tj=c", "odh=0", "doh=24", "fhours=240", "vt=forecasts", "lng=fr",
+                        var arg = ["s=501005", "m=501005", "uid=wg_fwdg_14_14_1585255748195", "wj=knots", "tj=c", "odh=0", "doh=24", "fhours=240", "vt=forecasts", "lng=fr",
                             "p=WINDSPD,GUST,MWINDSPD,SMER,TMPE,FLHGT,CDC,APCP1s,RATING"
                         ];
                         var script = document.createElement("script");
