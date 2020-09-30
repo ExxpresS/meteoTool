@@ -16,7 +16,7 @@ include '../includes/header.php';
 
         <div class="embed-responsive embed-responsive-16by9">
             <!-- youtube livecam -->
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gCimBI8Wh84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bBTLPpF8W2A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
         <div class="embed-responsive embed-responsive-1by1">

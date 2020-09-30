@@ -1,0 +1,30 @@
+<iframe scrolling="no" seamless="seamless" style="border: none; width: 100%; overflow: hidden; height: 315px;"
+
+ src="https://www.windguru.cz/widget-fcst-iframe.php?s=501005&amp;m=501005&amp;uid=wg_fwdg_14_14_1585255748195&amp;wj=knots&amp;tj=c&amp;odh=0&amp;doh=24&amp;fhours=240&amp;vt=forecasts&amp;lng=fr&amp;p=WINDSPD,GUST,MWINDSPD,SMER,TMPE,FLHGT,CDC,APCP1s,RATING&amp;hostname=localhost&amp;url=http%3A%2F%2Flocalhost%2Fmeteo%2Fview%2Fpages%2Fprevision.php" id="iFrameResizer1"></iframe>
+ 
+ 
+ windguru bergerie
+ 501005
+ 501005
+ 501005
+ 
+ windsup bergerie
+ https://www.winds-up.com/spot-la-bergerie-windsurf-kitesurf-8-observations-releves-vent.html
+ 
+ 
+ Si favoris 
+	-authentification
+	-compte user avec spot
+	
+ 
+ select - > create url -> getdata -> affiche  
+			BD ?? Json avec export excel <- plus simple !			
+			array data { 
+			id windguru
+			id_ baston 
+			pos windy
+			iframe cam 
+			}
+			
+Onchange je cahnge l'afficahge des irames en auto
+			
