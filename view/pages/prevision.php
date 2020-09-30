@@ -4,37 +4,20 @@ include '../includes/header.php';
 
 <body>
     <div class="records">
-        <!-- <div class="row">
-                <center>
-                    <iframe src="https://www.meteoblue.com/en/weather/widget/daily/toulon-hy%c3%a8res-airport_france_6299477?geoloc=fixed&days=5&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=monochrome&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windgust=0&winddirection=0&uv=0&humidity=0&precipitation=0&precipitation=1&precipitationprobability=0&spot=0&pressure=0&layout=light" frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 100%; height: 242px"></iframe>
-                </center> -->
-
 
         <?php
         include '../includes/nav.php';
         ?>
 
         <div>
-            <div class=" logo-prev-source align-items-center">
-                <center>
-                    <img style="margin: auto;" src="/public/pictures/logo_windsup.png" alt="Logo windsup">
-                </center>
-            </div>
-
             <iframe src="https://www.winds-up.com/api.php?id=2&set_width=100%&set_height=300&set_obs=&set_obs_array=&set_previs=1&set_webcam=&set_map=&set_logo=&set_txt=&set_unite=1&output=embed&set_codeLive=1" width="100%" height="300" scrolling=no frameborder=0></iframe>
         </div>
 
         <div>
-            <div class="logo-prev-source">
-                <center>
-                    <img style="margin: auto;" src="/public/pictures/windguru_logo.png" alt="Logo windguru">
-                </center>
-            </div>
-
             <script id="wg_fwdg_14_14_1585255748195">
                 (function(window, document) {
                     var loader = function() {
-                        var arg = ["s=501005", "m=501005", "uid=wg_fwdg_14_14_1585255748195", "wj=knots", "tj=c", "odh=0", "doh=24", "fhours=240", "vt=forecasts", "lng=fr",
+                        var arg = ["s=14", "m=14", "uid=wg_fwdg_14_14_1585255748195", "wj=knots", "tj=c", "odh=0", "doh=24", "fhours=240", "vt=forecasts", "lng=fr",
                             "p=WINDSPD,GUST,MWINDSPD,SMER,TMPE,FLHGT,CDC,APCP1s,RATING"
                         ];
                         var script = document.createElement("script");

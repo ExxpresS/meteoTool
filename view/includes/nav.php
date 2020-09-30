@@ -8,12 +8,12 @@
             Prévision
             <i class="far fa-chart-bar"></i></a>
 
-        <select class="btn btn-primary btn-lg active" id="spotSelect">
+        <!-- <select class="btn btn-primary btn-lg active" id="spotSelect">
             <option value="Almanarre">Almanarre</option>
             <option value="Bergerie">Bergerie</option>
             <option value="Sixfour">Sixfour</option>
             <option value="Jai">Jai</option>
-        </select>
+        </select> -->
     </center>
 </div>
 
